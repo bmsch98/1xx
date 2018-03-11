@@ -11,3 +11,9 @@ Brett Schultz IT version 100.1
 
 Brett Schultz IT version 100.2
 	-fixed the footer by adjusting bootstrap column widths wrapping them inside a bootstrap row
+
+Brett Schultz IT version 101.0
+	-added first level of navigation
+	-created assets/js/app.js
+	-created assets/data/menu.json
+	-moved header-resize.js to app.js
