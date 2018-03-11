@@ -17,3 +17,10 @@ Brett Schultz IT version 101.0
 	-created assets/js/app.js
 	-created assets/data/menu.json
 	-moved header-resize.js to app.js
+
+Brett Schultz IT version 102.0
+	-complete menuBuilder function in app.js
+	-completed nav through menuBuilder function with recursion
+
+Brett Schultz IT version 102.1
+	-completed css for navigation
