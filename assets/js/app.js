@@ -28,6 +28,8 @@ function init() {
 
 			$('nav').append(menu);
 
+			$("#loaderDiv").fadeOut("slow");
+
 		},
 		error: function () {
 
