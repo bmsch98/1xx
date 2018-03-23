@@ -3,24 +3,28 @@
 https://1xx.brettschultzit.com
 
 Brett Schultz IT version 100.0
-	-added header resize functionality
+	- added header resize functionality
 
 Brett Schultz IT version 100.1
-	-added footer resize functionality
-	-added jQuery, tether, popper
+	- added footer resize functionality
+	- added jQuery, tether, popper
 
 Brett Schultz IT version 100.2
-	-fixed the footer by adjusting bootstrap column widths wrapping them inside a bootstrap row
+	- fixed the footer by adjusting bootstrap column widths wrapping them inside a bootstrap row
 
 Brett Schultz IT version 101.0
-	-added first level of navigation
-	-created assets/js/app.js
-	-created assets/data/menu.json
-	-moved header-resize.js to app.js
+	- added first level of navigation
+	- created assets/js/app.js
+	- created assets/data/menu.json
+	- moved header-resize.js to app.js
 
 Brett Schultz IT version 102.0
-	-complete menuBuilder function in app.js
-	-completed nav through menuBuilder function with recursion
+	- complete menuBuilder function in app.js
+	- completed nav through menuBuilder function with recursion
 
 Brett Schultz IT version 102.1
-	-completed css for navigation
+	- completed css for navigation
+
+Brett Schultz IT version 103.0
+	- fixed enlarging navigation on header shrink
+	- added loader to application with gears
