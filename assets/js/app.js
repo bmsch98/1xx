@@ -20,7 +20,7 @@ function init() {
 
 	$.ajax({
 		method: 'GET',
-		url: 'http://me.brettschultzit.com/wp-json/wp-api-menus/v2/menus/3',
+		url: 'https://me.brettschultzit.com/wp-json/wp-api-menus/v2/menus/3',
 		dataType: 'json',
 		success: function (data) {
 
